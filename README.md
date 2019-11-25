@@ -26,7 +26,7 @@ The main dataset that we will be using is the ist-daten-sbb which contains every
 One of the difficulties is that the API only provides the information of the day and so we will have to build our own dataset by adding the data each day or by contacting the company directly.
 *Milestone 2 update: After contacting SBB company, they have provide us access to a Google Drive with the last two years data: 2018 complete and first 9 months in 2019 (146.5 GB). We want to modify this
 dataset since it also contains information about busses and other railway networks like Deutsche Bahn and hopefuly it will significantly reduce in size. Also, we want to enrich it by adding the geo locations
-of all train stations for future visualization. These can be taken from <https://data.sbb.ch/pages/home/>. One good aspect is that all the *.csv files have the same format and columns and we can use 
+of all train stations for future visualization. These can be taken from <https://data.sbb.ch/pages/home/>. One good aspect is that all the csv files have the same format and columns and we can use 
 the same data reconstruction pipeline for all. We expect to have 50 GB in the end.*
 
 ## A list of internal milestones up until project milestone 2
