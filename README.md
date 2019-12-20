@@ -31,7 +31,7 @@ Go to the `Project1.ipynb` and run all the cells until reaching the `Predictive 
 ### Recreate the full SBB dataset
 
 You need to download the full SBB dataset from [here](https://drive.google.com/open?id=1SVa68nJJRL3qgRSPKcXY7KuPN9MuHVhJ). These files are constantly updated and we only worked with the data from January 2018 to September 2019.
-For the year 2018, first month and first day it should have the following format: `18\_01/2018-01-01istdaten.csv`
+For the year 2018, first month and first day it should have the following format: `18_01/2018-01-01istdaten.csv`
 Go to the `data` folder and run the `RecreateDataset.ipynb` notebook. You can also check the description for each step in this notebook.  
 Otherwise you can run the `RecreateDataset.py` script with the command : `python RecreateDataset.py`. We uploaded the final results [here](https://drive.google.com/open?id=1AqcITx6nEO3NpvudkiqXCZ017k44Qfvz).
 
