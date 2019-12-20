@@ -43,15 +43,3 @@ the same data reconstruction pipeline for all. We expect to have 50 GB in the en
 * Create a datastory to describe our results and analysis (if possible with interactive interface)
 * Analyze the delay reasons
 
-## Questions for TAs
-
-### Milestone 1
-* Should we focus more on data visualization or data analysis?  
-    => TA answer: *Both should be a focus for the project.*
-* Is our idea fitting to the “social good” topic?  
-    => TA answer: *To fit better into the "social good" theme, you could think how your idea has implications for people that are impacted from the Swiss train system. But the exact idea is up to you!*
-* Since the API does not provide the history of their data, we will have to build our dataset from current data. Will the analysis period be problematic (too few data, not representative of the annual traffic ...)?  
-    => TA answer: *This is something you can only answer, but, yes, only having current data might limit possibilities of a historical analysis.*
-
-### Milestone 2
-* Since we changed our main idea by adding the delay prediction, is that a problem if we dropped some research questions (external features impact, shortest path, etc.)?  
